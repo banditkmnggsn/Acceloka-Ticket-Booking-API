@@ -1,5 +1,7 @@
 # Acceloka API – Requirement Checklist
 
+Candidate: Stephen Chuang 
+Position: IoT Developer 
 Project: Online Ticket Booking API  
 Framework: ASP.NET 10 Web API  
 Architecture: Clean Architecture (CQRS + MediatR)
